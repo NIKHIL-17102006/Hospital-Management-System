@@ -9,7 +9,7 @@ This stage builds a **performance and usability layer** on top of the BCNF schem
 mysql -u root -p < 04_3NF_BCNF/hospital_mgmt_3nf_bcnf.sql
 
 # Step 2 — add indexes, views, procedures and triggers
-mysql -u root -p < 05_indexes_views/indexes_and_views.sql
+mysql -u root -p < 05_Advanced_SQL/indexes_and_views.sql
 ```
 
 ---
